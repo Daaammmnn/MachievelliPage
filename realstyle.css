@@ -1,0 +1,32 @@
+.navbar {
+  padding: 8px 0 8px 0;
+}
+
+h1 {
+  font-family: Open-Sans;
+}
+
+h2 {
+  font-family: Open-Sans;
+}
+
+h3 {
+  font-family: Open-Sans;
+}
+
+div {
+  padding: relative;
+  margin: relative;
+}
+
+.row {
+  margin: relative;
+}
+
+container {
+  background-color: red;
+}
+
+body {
+  background-color: #f6f5f3;
+}
